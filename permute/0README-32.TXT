@@ -1,0 +1,1 @@
+Directory .old-32 contains the old version 3.2 used for the Ecology article.I recommend you use version 3.4. Even if it's only alpha, it's much morestable and fast.The only drawback of version 3.4 is that it does not do stepwise regression. But simply do a backward elimination after a forward selection and you will beall set.Philippe CasgrainFeb 2000
